@@ -1,6 +1,6 @@
 {
-  "name": "react-testimonial-container",
-  "version": "0.1.1",
+  "name": "react-recommendation-container",
+  "version": "0.1.2",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -48,6 +48,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "author": "Dheeraj Hiremath <dheerajhiremath94@gmail.com>"
+    "author": "Dheeraj Hiremath <dheerajhiremath94@gmail.com>",
+    "license":"MIT"
   }
 }
