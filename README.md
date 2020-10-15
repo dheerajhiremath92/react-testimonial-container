@@ -15,7 +15,7 @@ npm way!
 
 Import the component
 
-### `import TestimonialsContainer from "react-testimonials-container";`
+### `import TestimonialsContainer from "react-recommendation-container";`
 
 And the component is ready to be used!
 
